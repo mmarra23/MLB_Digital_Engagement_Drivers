@@ -37,10 +37,10 @@ All this data needed to by merged to develop ExML for digital engagement drivers
 
 Each digital platform yielded similar drivers and ranking order with some slight differences between them. Using the average engagement scoring the following are the top 5 on-field events that drove digital engagement from the 2018 season and beyond.
 
-*	Whether the team was in a Major Market.
-*	When a Home Run was hit in a game.
-*	Number of At Bat Appearances by a player in a game.
-*	An RBI scored.
-*	Runs Created by a player in a game.
+*	Whether the team was in a **Major Market**.
+*	When a **Home Run** was hit in a game.
+*	Number of **At Bat Appearances** by a player in a game.
+*	An **RBI scored**.
+*	**Runs Created** by a player in a game.
 
 ![download](https://user-images.githubusercontent.com/89919659/224550750-435b32a2-7ee4-42a0-98e2-690991a312a0.png)
