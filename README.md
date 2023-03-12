@@ -12,7 +12,7 @@ To conduct this project, a dataset from Kaggle was sourced and selected. The 199
 
 For this analysis, an in-depth EDA was not truly required as the Explainable Machine Learning (ExML) output would be the analysis. The data package consisted of 14 data files containing data such as player information, game by game stats by player, team information and more.
 
-All this data needed to by merged to develop ExML for digital engagement drivers. This data engineering was conducted in Python as per this workbook: Data Engineering Code
+All this data needed to by merged to develop ExML for digital engagement drivers. This data engineering was conducted in Python as per this workbook: https://github.com/mmarra23/MLB_Digital_Engagement_Drivers/blob/main/MLB%20Engagement%20-%2001%20-%20Data%20Import%20-%20v01%202023-01-13.ipynb
 
 **Data Cleaning Transformation & Feature Engineering**
 
