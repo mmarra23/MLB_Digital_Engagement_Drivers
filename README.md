@@ -41,3 +41,4 @@ Each digital platform yielded similar drivers and ranking order with some slight
 *	Number of At Bat Appearances by a player in a game.
 *	An RBI scored.
 *	Runs Created by a player in a game.
+![download](https://user-images.githubusercontent.com/89919659/224550750-435b32a2-7ee4-42a0-98e2-690991a312a0.png)
