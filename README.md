@@ -1,10 +1,10 @@
 # MLB_Digital_Engagement_Drivers
-Major League Baseball Digital Engagement Drivers
+**Major League Baseball Digital Engagement Drivers**
 
-Objective
+**Objective**
 The goal of this project was to utilize the MLB’s digital engagement data to explain the question of what on field events drive fan engagement through digital platforms. The scope of this analysis was to review the on-field drivers of non-pitcher positions for the 2018 to 2021 seasons.
 
-Data Selection
+**Data Selection**
 To conduct this project, a dataset from Kaggle was sourced and selected. The 1990-2021 MLB data was utilized which contain main dimensions of MLB games, players as well as their daily digital engagement metrics from 3 digital platforms: https://www.kaggle.com/competitions/mlb-player-digital-engagement-forecasting/overview.
 
 Data Exploration & Analysis
