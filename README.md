@@ -31,6 +31,7 @@ All this data needed to by merged to develop ExML for digital engagement drivers
 *	Isolated all the input features to the regressor.
 *	Generated the output with the target variables and input features using XGBoost Regressor.
 *	The last step was to utilize the SHAP package to output the drivers and a rank order.
+*	Here is the workbook with all the analytical procedures executed: https://github.com/mmarra23/MLB_Digital_Engagement_Drivers/blob/main/MLB%20Engagement%20-%2002%20-%20Analysis%20-%20v01%202023-01-16.ipynb
 
 **Conclusion**
 
