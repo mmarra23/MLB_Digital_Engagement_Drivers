@@ -14,6 +14,8 @@ For this analysis, an in-depth EDA was not truly required as the Explainable Mac
 
 All this data needed to by merged to develop ExML for digital engagement drivers. This data engineering was conducted in Python as per this workbook: https://github.com/mmarra23/MLB_Digital_Engagement_Drivers/blob/main/MLB%20Engagement%20-%2001%20-%20Data%20Import%20-%20v01%202023-01-13.ipynb
 
+![image](https://user-images.githubusercontent.com/89919659/227675431-5ee9267a-5e35-4956-a621-e3e09afb81eb.png)
+
 **Data Cleaning Transformation & Feature Engineering**
 
 *	In the data engineering procedures, we filter season greater than 2018 season. I also develop new features such as Major Market teams, Season categories like Pre-Season, Regular, Post.
