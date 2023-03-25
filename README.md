@@ -2,6 +2,7 @@
 **Major League Baseball Digital Engagement Drivers**
 
 **Objective**
+
 The goal of this project was to utilize the MLB’s digital engagement data to explain the question of what on field events drive fan engagement through digital platforms. The scope of this analysis was to review the on-field drivers of non-pitcher positions for the 2018 to 2021 seasons.
 
 **Data Selection**
