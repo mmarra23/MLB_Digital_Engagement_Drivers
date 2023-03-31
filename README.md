@@ -47,3 +47,7 @@ Each digital platform yielded similar drivers and ranking order with some slight
 *	**Runs Created** by a player in a game.
 
 ![download](https://user-images.githubusercontent.com/89919659/224550750-435b32a2-7ee4-42a0-98e2-690991a312a0.png)
+
+***Update***
+
+A feature that I will add in future to this analysis is wether the player was of a franchise and/or all-star type player. I believe this will be in top 5 drivers of increased digital engagement.
