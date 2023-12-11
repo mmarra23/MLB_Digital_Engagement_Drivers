@@ -50,4 +50,4 @@ Each digital platform yielded similar drivers and ranking order with some slight
 
 ***Update***
 
-A feature that I will add in future to this analysis is wether the player was of a franchise and/or all-star type player. I believe this will be in top 5 drivers of increased digital engagement.
+A feature that I will add in future to this analysis is whether the player was of a franchise and/or all-star type player. I believe this will be in top 5 drivers of increased digital engagement.
